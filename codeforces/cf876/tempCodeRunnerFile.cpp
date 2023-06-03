@@ -1,0 +1,1 @@
+cout << as.size() << " " << as[0] << endl;
